@@ -29,9 +29,6 @@ links:
   - name: Opsgenie service
     type: OTHER_LINK
     url: 'https://compass-magnets.app.opsgenie.com/service/0d180381-583a-4de1-acc2-8196338d588d'
-relationships:
-  DEPENDS_ON:
-    - 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/1d243600-59a0-4643-8e83-454c33ced54c'
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
