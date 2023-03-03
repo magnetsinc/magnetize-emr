@@ -3,9 +3,6 @@ id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0
 description: AWS Elastic Map Reduce
 ownerId: 'ari:cloud:teams::team/df9335ac-cccf-4f3e-9218-eb7c8fea2115'
 links:
-  - name: null
-    type: REPOSITORY
-    url: 'https://bitbucket.org/magnetsinc/magnetize-emr'
   - name: 'Contact us here'
     type: CHAT_CHANNEL
     url: 'https://magnetsinc.slack.com/archives/C049E2AUHRC'
